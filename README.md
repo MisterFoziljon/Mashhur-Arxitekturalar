@@ -1,6 +1,6 @@
-# Mashhur-Arxitekturalar
+## Mashhur-Arxitekturalar
 
-** VGG-19
-** GoogleNet
-** ResNet
-** DenseNet
+### VGG-19
+### GoogleNet
+### ResNet
+### DenseNet
