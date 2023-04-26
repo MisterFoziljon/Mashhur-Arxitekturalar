@@ -30,8 +30,8 @@ Ushbu loyiha tarkibidagi arxitekturalar ImageNet tomonidan o'tkazilgan musobaqal
 ### 2. GoogleNet arxitekturasi
 ![googlenet](https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/GoogleNet.png)
 
-### ResNet arxitekturasi
+### 3. ResNet arxitekturasi
 ![resnet](https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/ResNet.png)
 
-### DenseNet arxitekturasi
+### 4. DenseNet arxitekturasi
 ![densenet](https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/DenseNet.jpg)
