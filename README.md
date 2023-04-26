@@ -7,8 +7,9 @@ Ushbu modellar juda chuqur(deep) qatlamga ega va yuqori texnik xususiyatlarga eg
 Ushbu loyiha tarkibidagi arxitekturalar ImageNet tomonidan o'tkazilgan musobaqalarda g'alaba qozongan mashhur arxitekturalar hisoblanib, ular yordamida 1000 ta sinfga ajratuvchi classification modellarini yaratish mumkin.
 
 <div align="center">
+ 
 | Yil | Arxitektura nomi | Tavsif |
-|-----|------------------|---------|
+|-----:|------------------|---------|
 | 2011-2012 | AlexNET | Aleks Krizhevskiy, Ilya Sutskever va Jeffri Xinton tomonidan ishlab chiqilgan konvolyutsion neyron tarmog'i (CNN) |
 | 2013 | ZFNET | Nyu-York universitetida Metyu Zayler va Rob Fergus tomonidan ishlab chiqilgan CNN |
 | 2014 | GoogleNET (Inception-v1) | Kristian Szegedi va uning Googledagi hamkasblari tomonidan ishlab chiqilgan CNN |
