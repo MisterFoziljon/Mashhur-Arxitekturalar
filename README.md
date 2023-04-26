@@ -42,7 +42,7 @@ VGG-19 tarmog'ini o'qitish uchun ImageNet ma'lumotlar bazasidan 1 milliondan ort
 <img src="https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/VGG-19.png" width="500"/>
 </p>
 
-```VGG-19.ipynb``` notebookda arxitektura noldan qurilgan. Train va Test qilingan.
+```VGG-19.ipynb``` notebookda arxitektura oxford_flowers102 dataseti uchun moslangan va noldan qurilgan. Train va Test qilingan.
 
 ### 2. GoogleNet arxitekturasi
 
