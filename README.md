@@ -66,7 +66,13 @@ GoogLeNet tarmog'ini o'qitish uchun ImageNet ma'lumotlar bazasidan 1 milliondan 
 
 ### 3. ResNet arxitekturasi
 
+ResNet34 konvolyutsion neyron tarmoq arxitekturasi bo'lib, u 2015-yilda ResNet modellar oilasining bir qismi sifatida taqdim etilgan bo'lib, u "qoldiq tarmoq" degan ma'noni anglatadi. ResNet34 shunday nomlanadi, chunki u 34 qatlamdan, jumladan konvolyutsion qatlamlar, birlashtiruvchi qatlamlar va to'liq bog'langan qatlamlardan iborat.
 
+ResNet modellarining asosiy yangiligi qatlamlar orasidagi "qoldiq ulanishlar" yoki "o'tkazib yuborilgan ulanishlar" ni joriy etishdir. Ushbu ulanishlar tarmoqqa asl funksiyalarga qaraganda optimallashtirish osonroq bo'lgan qoldiq funktsiyalarni o'rganish imkonini beradi. Bu yo'qolgan gradientlar muammosini hal qilishga yordam beradi va tarmoqni yanada samarali o'qitishga imkon beradi.
+
+ResNet34, xususan, har xil filtr o'lchamlariga ega bo'lgan konvolyutsion qatlamlar to'plamidan iborat bo'lib, bundan tashqari normallashtirish va faollashtirish funktsiyalari mavjud. Har ikki konvolyutsion qatlamdan so'ng, keyingi ikki qatlamning kirishiga qoldiq ulanish qo'shiladi. Tarmoq global o'rtacha birlashtiruvchi qatlam bilan tugaydi, undan keyin tasniflash bashoratlarini chiqaradigan to'liq bog'langan qatlam.
+
+ResNet34 tasvirni tasniflash, ob'ektlarni aniqlash va semantik segmentatsiyani o'z ichiga olgan kompyuterni ko'rishning keng ko'lamli vazifalari uchun ishlatilgan va bir nechta mezonlarda eng zamonaviy ko'rsatkichlarga erishgan.
 
 - Parametrlar soni: 25 738 814 ta (oxford_flowers102)
 - Qatlamlarning umumiy soni: 34
