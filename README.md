@@ -29,11 +29,11 @@ VGG-19 konvolyutsion neyron tarmog'i (CNN) bo'lib, 19 ta asosiy qatlam (16 ta ko
 
 VGG-19 tarmog'ini o'qitish uchun ImageNet ma'lumotlar bazasidan 1 milliondan ortiq tasvir ishlatilgan. Tabiiyki, siz ImageNetdan o'qitilgan vaznli modelni import qilishingiz mumkin. Bu oldindan tayyorlangan tarmoq 1000 tagacha obyektni tasniflashi mumkin. Tarmoq 224×224 piksel o'lchamdagi rangli tasvirlarga o'rgatilgan. O'lchami va VGG-19 ishlashi haqida qisqacha ma'lumot:
 
-Hajmi: 549 MB
-Top-1: 71,3%
-Top-5: 90,0%
-Parametrlar soni: 143 667 240 ta
-Qatlamlarning umumiy soni: 25
+- Hajmi: 549 MB
+- Top-1: 71,3%
+- Top-5: 90,0%
+- Parametrlar soni: 143 667 240 ta
+- Qatlamlarning umumiy soni: 25
 
 ![vgg19](https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/VGG-19.png)
 
