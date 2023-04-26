@@ -34,7 +34,7 @@ VGG-19 tarmog'ini o'qitish uchun ImageNet ma'lumotlar bazasidan 1 milliondan ort
 - Top-5: 90,0%
 - Parametrlar soni: 143 667 240 ta
 - Qatlamlarning umumiy soni: 25
-<img src="https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/VGG-19.png" width="200" />
+<img src="https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/VGG-19.png" width="500" align="center" />
 
 ### 2. GoogleNet arxitekturasi
 ![googlenet](https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/GoogleNet.png)
