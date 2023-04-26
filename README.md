@@ -5,6 +5,7 @@ Hozirgi kunda Convolutional Neural Network ning bir nechta modellari ommaga taqd
 <p align="center">
  <img src="https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/timeLine.png" width="800"/>
 </p>
+
 Ushbu modellar juda chuqur(deep) qatlamga ega va yuqori texnik xususiyatlarga ega kompyuterlar yordamida o'qitiladi (GPU,TPU).
 Ushbu loyiha tarkibidagi arxitekturalar ImageNet tomonidan o'tkazilgan musobaqalarda g'alaba qozongan mashhur arxitekturalar hisoblanib, ular yordamida 1000 ta sinfga ajratuvchi classification modellarini yaratish mumkin.
 
@@ -42,10 +43,19 @@ VGG-19 tarmog'ini o'qitish uchun ImageNet ma'lumotlar bazasidan 1 milliondan ort
 </p>
 
 ### 2. GoogleNet arxitekturasi
-![googlenet](https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/GoogleNet.png)
+
+<p align="center">
+ <img src="https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/GoogleNet.png" width="800"/>
+</p>
 
 ### 3. ResNet arxitekturasi
-![resnet](https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/ResNet.png)
+
+<p align="center">
+ <img src="https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/ResNet.png" width="800"/>
+</p>
 
 ### 4. DenseNet arxitekturasi
-![densenet](https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/DenseNet.jpg)
+
+<p align="center">
+ <img src="https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/DenseNet.jpg" width="800"/>
+</p>
