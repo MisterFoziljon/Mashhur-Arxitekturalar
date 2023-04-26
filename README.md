@@ -72,7 +72,7 @@ ResNet modellarining asosiy yangiligi qatlamlar orasidagi "qoldiq ulanishlar" yo
 
 ResNet34, xususan, har xil filtr o'lchamlariga ega bo'lgan konvolyutsion qatlamlar to'plamidan iborat bo'lib, bundan tashqari normallashtirish va faollashtirish funktsiyalari mavjud. Har ikki konvolyutsion qatlamdan so'ng, keyingi ikki qatlamning kirishiga qoldiq ulanish qo'shiladi. Tarmoq global o'rtacha birlashtiruvchi qatlam bilan tugaydi, undan keyin tasniflash bashoratlarini chiqaradigan to'liq bog'langan qatlam.
 
-ResNet34 tasvirni tasniflash, ob'ektlarni aniqlash va semantik segmentatsiyani o'z ichiga olgan kompyuterni ko'rishning keng ko'lamli vazifalari uchun ishlatilgan va bir nechta mezonlarda eng zamonaviy ko'rsatkichlarga erishgan.
+ResNet34 tasvirni tasniflash, obyektlarni aniqlash va semantik segmentatsiyani o'z ichiga olgan kompyuterni ko'rishning keng ko'lamli vazifalari uchun ishlatilgan va bir nechta mezonlarda eng zamonaviy ko'rsatkichlarga erishgan.
 
 - Parametrlar soni: 25 738 814 ta (oxford_flowers102)
 - Qatlamlarning umumiy soni: 34
@@ -87,7 +87,13 @@ ResNet34 tasvirni tasniflash, ob'ektlarni aniqlash va semantik segmentatsiyani o
 
 ### 4. DenseNet arxitekturasi
 
+DenseNet121 konvolyutsion neyron tarmoq arxitekturasi boʻlib, 2017-yilda taqdim etilgan. U DenseNet modellar oilasining bir qismi boʻlib, “Zich bogʻlangan konvolyutsion tarmoqlar” degan maʼnoni anglatadi. DenseNet121 shunday nomlanadi, chunki u 121 qatlamdan iborat.
 
+DenseNet modellarining asosiy g'oyasi har bir qatlamni har bir boshqa qatlamga oldinga uzatish usulida ulashdir. Boshqacha qilib aytganda, har bir qatlam nafaqat oldingi qatlamdan, balki barcha oldingi qatlamlardan ham ma'lumot oladi. Bu qatlamlar orasidagi zich ulanishga olib keladi va tarmoqqa kirish ma'lumotlaridan ko'proq xususiyatlarni olish imkonini beradi.
+
+DenseNet121 turli filtr o'lchamlariga ega bo'lgan konvolyutsion qatlamlar to'plamidan iborat bo'lib, undan keyin qatlamlarni normallashtirish va faollashtirish funksiyalari mavjud. Har bir qatlam oldingi barcha qatlamlarga zich ulanishlar orqali ulanadi. Tarmoq global o'rtacha birlashtiruvchi qatlam bilan tugaydi, undan keyin tasniflash bashoratlarini chiqaradigan to'liq bog'langan qatlam.
+
+DenseNet121 tasvirni tasniflash, ob'ektlarni aniqlash va semantik segmentatsiyani o'z ichiga olgan kompyuter ko'rish vazifalarining keng doirasi uchun ishlatilgan. U bir nechta ko'rsatkichlar bo'yicha eng so'nggi ko'rsatkichlarga erishdi va xotiradan foydalanish va hisoblash vaqti nuqtai nazaridan o'zining samaradorligi bilan mashhur.
 
 - Parametrlar soni: 7 147 942 ta (oxford_flowers102)
 - Qatlamlarning umumiy soni: 121
