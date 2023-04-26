@@ -1,8 +1,10 @@
 ## Mashhur-Arxitekturalar
 
 Hozirgi kunda Convolutional Neural Network ning bir nechta modellari ommaga taqdim etilgan. 
-![timeline](https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/timeLine.png)
 
+<p align="center">
+![timeline](https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/timeLine.png)
+</p>
 Ushbu modellar juda chuqur(deep) qatlamga ega va yuqori texnik xususiyatlarga ega kompyuterlar yordamida o'qitiladi (GPU,TPU).
 Ushbu loyiha tarkibidagi arxitekturalar ImageNet tomonidan o'tkazilgan musobaqalarda g'alaba qozongan mashhur arxitekturalar hisoblanib, ular yordamida 1000 ta sinfga ajratuvchi classification modellarini yaratish mumkin.
 
