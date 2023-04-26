@@ -46,6 +46,14 @@ VGG-19 tarmog'ini o'qitish uchun ImageNet ma'lumotlar bazasidan 1 milliondan ort
 
 ### 2. GoogleNet arxitekturasi
 
+GoogLeNet - bu 22 qatlamli chuqur konvolyutsion neyron tarmoq bo'lib, u Google tadqiqotchilari tomonidan ishlab chiqilgan Inception Network, chuqur konvolyutsion neyron tarmog'ining bir variantidir.
+
+ImageNet Large-Scale Visual Recognition Challenge 2014 (ILSVRC14) da taqdim etilgan GoogLeNet arxitekturasi tasvirlarni tasniflash va obyektni aniqlash kabi kompyuterni ko'rish vazifalarini hal qildi — uning qanchalik yaxshi ishlashini ushbu maqoladan bilib olishingiz mumkin:
+
+[GoogleNet haqida maqola](https://towardsdatascience.com/deep-learning-googlenet-explained-de8861c82765)
+
+Bugungi kunda GoogLeNet kompyuterni ko'rishning boshqa vazifalari uchun ishlatiladi, masalan, yuzni aniqlash va tanib olish, raqiblarni tayyorlash va boshqalar.
+
 <p align="center">
  <img src="https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/GoogleNet.png" width="800"/>
 </p>
