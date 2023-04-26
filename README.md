@@ -9,7 +9,7 @@ Ushbu loyiha tarkibidagi arxitekturalar ImageNet tomonidan o'tkazilgan musobaqal
 <div align="center">
  
 | Yil | Arxitektura nomi | Tavsif |
-|----------:|------------------|---------|
+|----------|------------------|---------|
 | 2011-2012 | AlexNET | Aleks Krizhevskiy, Ilya Sutskever va Jeffri Xinton tomonidan ishlab chiqilgan konvolyutsion neyron tarmog'i (CNN) |
 | 2013 | ZFNET | Nyu-York universitetida Metyu Zayler va Rob Fergus tomonidan ishlab chiqilgan CNN |
 | 2014 | GoogleNET (Inception-v1) | Kristian Szegedi va uning Googledagi hamkasblari tomonidan ishlab chiqilgan CNN |
