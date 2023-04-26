@@ -32,8 +32,6 @@ VGG-19 konvolyutsion neyron tarmog'i (CNN) bo'lib, 19 ta asosiy qatlam (16 ta ko
 
 VGG-19 tarmog'ini o'qitish uchun ImageNet ma'lumotlar bazasidan 1 milliondan ortiq tasvir ishlatilgan. Tabiiyki, siz ImageNetdan o'qitilgan vaznli modelni import qilishingiz mumkin. Bu oldindan tayyorlangan tarmoq 1000 tagacha obyektni tasniflashi mumkin. Tarmoq 224×224 piksel o'lchamdagi rangli tasvirlarga o'rgatilgan. O'lchami va VGG-19 ishlashi haqida qisqacha ma'lumot:
 
-- Hajmi: 549 MB
-- Xatolik Top-5: 6.67%
 - Parametrlar soni: 143,769,342 ta
 - Qatlamlarning umumiy soni: 25
 
@@ -51,10 +49,6 @@ ImageNet Large-Scale Visual Recognition Challenge 2014 (ILSVRC14) da taqdim etil
 
 Bugungi kunda GoogLeNet kompyuterni ko'rishning boshqa vazifalari uchun ishlatiladi, masalan, yuzni aniqlash va tanib olish va boshqalar.
 GoogLeNet tarmog'ini o'qitish uchun ImageNet ma'lumotlar bazasidan 1 milliondan ortiq tasvir ishlatilgan. Tabiiyki, siz ImageNetdan o'qitilgan vaznli modelni import qilishingiz mumkin. Bu oldindan tayyorlangan tarmoq 1000 tagacha obyektni tasniflashi mumkin. Tarmoq 224×224 piksel o'lchamdagi rangli tasvirlarga o'rgatilgan. O'lchami va GoogLeNet ishlashi haqida qisqacha ma'lumot:
-
-- Hajmi: 549 MB
-- Top-1: 71,3%
-- Top-5: 90,0%
 
 - Parametrlar soni: 9 804 474 ta (oxford_flowers102)
 - Qatlamlarning umumiy soni: 22
