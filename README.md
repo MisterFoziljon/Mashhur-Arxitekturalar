@@ -34,7 +34,7 @@ VGG-19 tarmog'ini o'qitish uchun ImageNet ma'lumotlar bazasidan 1 milliondan ort
 
 - Hajmi: 549 MB
 - Xatolik Top-5: 6.67%
-- Parametrlar soni: 143 667 240 ta
+- Parametrlar soni: 143,769,342 ta
 - Qatlamlarning umumiy soni: 25
 
 <p align="center">
@@ -55,13 +55,17 @@ GoogLeNet tarmog'ini o'qitish uchun ImageNet ma'lumotlar bazasidan 1 milliondan 
 - Hajmi: 549 MB
 - Top-1: 71,3%
 - Top-5: 90,0%
-- Parametrlar soni: 143 667 240 ta
-- Qatlamlarning umumiy soni: 25
+
+- Parametrlar soni: 9 804 474 ta (oxford_flowers102)
+- Qatlamlarning umumiy soni: 22
 
 
 <p align="center">
  <img src="https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/GoogleNet.png" width="800"/>
 </p>
+
+```GoogleNet.ipynb``` notebookda arxitektura oxford_flowers102 dataseti uchun moslangan va noldan qurilgan. Train va Test qilingan.
+
 
 ### 3. ResNet arxitekturasi
 
