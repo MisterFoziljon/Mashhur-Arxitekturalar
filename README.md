@@ -20,7 +20,7 @@ Ushbu loyiha tarkibidagi arxitekturalar ImageNet tomonidan o'tkazilgan musobaqal
 | 2019 | EfficientNet | Google kompaniyasida Mingxing Tan va Quoc V. Le tomonidan ishlab chiqilgan CNN |
 | 2020 | Big Transfer (BiT) | Google tomonidan ishlab chiqilgan modellar oilasi boʻlib, oldindan oʻrgatilgan yirik modellardan transfer oʻrganishdan foydalanadi |
 | 2021 | ViT (Vision Transformer) | Aleksey Dosovitskiy va uning Googledagi hamkasblari tomonidan ishlab chiqilgan transformatorga asoslangan arxitektura |
-<\div>
+</div>
 Tensorflow.datasets tarkibidagi "" dataseti 102 sinfdan iborat. Mana shu dataset yordamida mashhur arxitekturalar sinovdan o'tkazildi. Quyida arxitekturalar haqida qisqacha ma'lumot, modelning qurilishi hamda train va test qilish natijalari haqida ma'lumot olishingiz mumkin.
 
 ### 1. VGG-19 arxitekturasi
