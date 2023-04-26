@@ -1,7 +1,7 @@
 ## Mashhur-Arxitekturalar
 
 Hozirgi kunda Convolutional Neural Network ning bir nechta modellari ommaga taqdim etilgan. 
-![cmd](https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/timeLine.png)
+![timeline](https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/timeLine.png)
 
 Ushbu modellar juda chuqur(deep) qatlamga ega va yuqori texnik xususiyatlarga ega kompyuterlar yordamida o'qitiladi (GPU,TPU).
 Ushbu loyiha tarkibidagi arxitekturalar ImageNet tomonidan o'tkazilgan musobaqalarda g'alaba qozongan mashhur arxitekturalar hisoblanib, ular yordamida 1000 ta sinfga ajratuvchi classification modellarini yaratish mumkin.
@@ -10,9 +10,9 @@ Ushbu loyiha tarkibidagi arxitekturalar ImageNet tomonidan o'tkazilgan musobaqal
  
 | Yil | Arxitektura nomi | Tavsif |
 |:----------:|:------------------:|:---------:|
-| 2011-2012 | AlexNET | Aleks Krizhevskiy, Ilya Sutskever va Jeffri Xinton tomonidan ishlab chiqilgan konvolyutsion neyron tarmog'i (CNN) |
-| 2013 | ZFNET | Nyu-York universitetida Metyu Zayler va Rob Fergus tomonidan ishlab chiqilgan CNN |
-| 2014 | GoogleNET (Inception-v1) | Kristian Szegedi va uning Googledagi hamkasblari tomonidan ishlab chiqilgan CNN |
+| 2011-2012 | AlexNet | Aleks Krizhevskiy, Ilya Sutskever va Jeffri Xinton tomonidan ishlab chiqilgan konvolyutsion neyron tarmog'i (CNN) |
+| 2013 | ZFNet | Nyu-York universitetida Metyu Zayler va Rob Fergus tomonidan ishlab chiqilgan CNN |
+| 2014 | GoogleNet (Inception-v1) | Kristian Szegedi va uning Googledagi hamkasblari tomonidan ishlab chiqilgan CNN |
 | 2015 | ResNet | Kaiming He va uning Microsoft Research Asiadagi hamkasblari tomonidan ishlab chiqilgan juda chuqur CNN |
 | 2016 | ResNet | yanada chuqurroq versiya bilan (ResNet-152) |
 | 2017 | Inception-v4 va Inception-ResNet-v2 | Kristian Szegedi va uning Googledagi hamkasblari tomonidan ishlab chiqilgan |
@@ -25,7 +25,13 @@ Ushbu loyiha tarkibidagi arxitekturalar ImageNet tomonidan o'tkazilgan musobaqal
 [tensorflow.datasets](https://www.tensorflow.org/datasets/catalog/overview) tarkibidagi [oxford_flowers102](https://www.tensorflow.org/datasets/catalog/oxford_flowers102?hl=ru) dataseti 102 sinfdan iborat. Mana shu dataset yordamida mashhur arxitekturalar sinovdan o'tkazildi. Quyida arxitekturalar haqida qisqacha ma'lumot, modelning qurilishi hamda train va test qilish natijalari haqida ma'lumot olishingiz mumkin.
 
 ### 1. VGG-19 arxitekturasi
+![vgg19](https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/VGG-19.png)
 
-### GoogleNet
-### ResNet
-### DenseNet
+### 2. GoogleNet arxitekturasi
+![googlenet](https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/GoogleNet.png)
+
+### ResNet arxitekturasi
+![resnet](https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/ResNet.png)
+
+### DenseNet arxitekturasi
+![densenet](https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/DenseNet.jpg)
