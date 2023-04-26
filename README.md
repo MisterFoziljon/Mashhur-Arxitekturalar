@@ -47,9 +47,7 @@ VGG-19 tarmog'ini o'qitish uchun ImageNet ma'lumotlar bazasidan 1 milliondan ort
 
 GoogLeNet - bu ko'p qatlamli chuqur konvolyutsion neyron tarmoq bo'lib, u Google tadqiqotchilari tomonidan ishlab chiqilgan Inception Network, chuqur konvolyutsion neyron tarmog'ining bir variantidir.,GoogLeNet arxitekturasi 22 qatlamdan iborat (27 qatlam, shu jumladan birlashtiruvchi qatlamlar) va bu qatlamlarning bir qismi jami 9 ta boshlang'ich moduldan iborat.
 
-ImageNet Large-Scale Visual Recognition Challenge 2014 (ILSVRC14) da taqdim etilgan GoogLeNet arxitekturasi tasvirlarni tasniflash va obyektni aniqlash kabi kompyuterni ko'rish vazifalarini hal qildi — uning qanchalik yaxshi ishlashini ushbu maqoladan bilib olishingiz mumkin:
-
-[GoogleNet haqida maqola](https://towardsdatascience.com/deep-learning-googlenet-explained-de8861c82765)
+ImageNet Large-Scale Visual Recognition Challenge 2014 (ILSVRC14) da taqdim etilgan GoogLeNet arxitekturasi tasvirlarni tasniflash va obyektni aniqlash kabi kompyuterni ko'rish vazifalarini hal qildi — uning qanchalik yaxshi ishlashini ushbu [maqola](https://towardsdatascience.com/deep-learning-googlenet-explained-de8861c82765)dan bilib olishingiz mumkin:
 
 Bugungi kunda GoogLeNet kompyuterni ko'rishning boshqa vazifalari uchun ishlatiladi, masalan, yuzni aniqlash va tanib olish va boshqalar.
 GoogLeNet tarmog'ini o'qitish uchun ImageNet ma'lumotlar bazasidan 1 milliondan ortiq tasvir ishlatilgan. Tabiiyki, siz ImageNetdan o'qitilgan vaznli modelni import qilishingiz mumkin. Bu oldindan tayyorlangan tarmoq 1000 tagacha obyektni tasniflashi mumkin. Tarmoq 224×224 piksel o'lchamdagi rangli tasvirlarga o'rgatilgan. O'lchami va GoogLeNet ishlashi haqida qisqacha ma'lumot:
