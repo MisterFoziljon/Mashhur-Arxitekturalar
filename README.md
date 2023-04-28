@@ -66,13 +66,13 @@ GoogLeNet tarmog'ini o'qitish uchun ImageNet ma'lumotlar bazasidan 1 milliondan 
 
 ### 3. ResNet arxitekturasi
 
-ResNet34 konvolyutsion neyron tarmoq arxitekturasi bo'lib, u 2015-yilda ResNet modellar oilasining bir qismi sifatida taqdim etilgan bo'lib, u "qoldiq tarmoq" degan ma'noni anglatadi. ResNet34 shunday nomlanadi, chunki u 34 qatlamdan, jumladan konvolyutsion qatlamlar, birlashtiruvchi qatlamlar va to'liq bog'langan qatlamlardan iborat.
+ResNet50 2015 yilda Microsoft Research tomonidan taklif qilingan chuqur konvolyutsion neyron tarmoq arxitekturasidir. U ResNet oilasining bir qismi bo'lib, "qoldiq tarmoq" degan ma'noni anglatadi va u 50 ta qatlamga ega.
 
-ResNet modellarining asosiy yangiligi qatlamlar orasidagi "qoldiq ulanishlar" yoki "o'tkazib yuborilgan ulanishlar" ni joriy etishdir. Ushbu ulanishlar tarmoqqa asl funksiyalarga qaraganda optimallashtirish osonroq bo'lgan qoldiq funktsiyalarni o'rganish imkonini beradi. Bu yo'qolgan gradientlar muammosini hal qilishga yordam beradi va tarmoqni yanada samarali o'qitishga imkon beradi.
+ResNet50 arxitekturasi juda chuqur neyron tarmoqlarda paydo bo'lishi mumkin bo'lgan gradientlarning yo'qolishi muammosini hal qilish uchun mo'ljallangan. U tarmoqqa ma'lum qatlamlarni o'tkazib yuborish va ma'lumotni bir qatlamdan boshqasiga to'g'ridan-to'g'ri uzatish imkonini beruvchi qoldiq ulanishlarni joriy etish orqali bunga erishadi.
 
-ResNet34, xususan, har xil filtr o'lchamlariga ega bo'lgan konvolyutsion qatlamlar to'plamidan iborat bo'lib, bundan tashqari normallashtirish va faollashtirish funktsiyalari mavjud. Har ikki konvolyutsion qatlamdan so'ng, keyingi ikki qatlamning kirishiga qoldiq ulanish qo'shiladi. Tarmoq global o'rtacha birlashtiruvchi qatlam bilan tugaydi, undan keyin tasniflash bashoratlarini chiqaradigan to'liq bog'langan qatlam.
+ResNet50 ImageNet kabi katta ma'lumotlar to'plamlarida o'qitiladi va tasvirlarni tasniflash, ob'ektlarni aniqlash va semantik segmentatsiyani o'z ichiga olgan turli xil kompyuter ko'rish vazifalari uchun ishlatilishi mumkin. U bir nechta ko'rsatkichlar bo'yicha eng zamonaviy ko'rsatkichlarga erishdi va sanoatda ham, akademiyada ham keng qo'llaniladi.
 
-ResNet34 tasvirni tasniflash, obyektlarni aniqlash va semantik segmentatsiyani o'z ichiga olgan kompyuterni ko'rishning keng ko'lamli vazifalari uchun ishlatilgan va bir nechta mezonlarda eng zamonaviy ko'rsatkichlarga erishgan.
+ResNet50 arxitekturasi bir necha bosqichlardan iborat bo'lib, ularning har biri bir nechta konvolyutsion qatlamlarni o'z ichiga oladi, undan keyin ommaviy normalizatsiya qatlami va ReLU faollashtirish funktsiyasi mavjud. Tarmoq, shuningdek, yakuniy bashoratlarni ishlab chiqarish uchun oxirida o'rtacha birlashma va to'liq bog'langan qatlamlarni o'z ichiga oladi.
 
 - Parametrlar soni: 25 738 814 ta (oxford_flowers102)
 - Qatlamlarning umumiy soni: 34
