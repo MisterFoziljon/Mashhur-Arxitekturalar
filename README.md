@@ -75,7 +75,7 @@ ResNet50 ImageNet kabi katta ma'lumotlar to'plamlarida o'qitiladi va tasvirlarni
 ResNet50 arxitekturasi bir necha bosqichlardan iborat bo'lib, ularning har biri bir nechta konvolyutsion qatlamlarni o'z ichiga oladi, undan keyin ommaviy normalizatsiya qatlami va ReLU faollashtirish funktsiyasi mavjud. Tarmoq, shuningdek, yakuniy bashoratlarni ishlab chiqarish uchun oxirida o'rtacha birlashma va to'liq bog'langan qatlamlarni o'z ichiga oladi.
 
 - Parametrlar soni: 25 738 814 ta (oxford_flowers102)
-- Qatlamlarning umumiy soni: 34
+- Qatlamlarning umumiy soni: 50
 
 <p align="center">
  <img src="https://github.com/MisterFoziljon/Mashhur-Arxitekturalar/blob/main/rasmlar/ResNet.png" width="800"/>
